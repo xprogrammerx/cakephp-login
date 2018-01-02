@@ -3,6 +3,7 @@
 2. ANGULAR and jQUERY/*
 3. NODE.JS/*
 SCRIPTS/*
+<<<<<<< HEAD
 =======
 # CakePHP specific files #
 ##########################
@@ -39,3 +40,6 @@ nbproject/* # NetBeans
 .vscode # Visual Studio Code
 .sass-cache/ # Sass preprocessor
 >>>>>>> first commit
+=======
+Back End/*
+>>>>>>> d5e2866bb009837639a32df21e4335d835f301c5
